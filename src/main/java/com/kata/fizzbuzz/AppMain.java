@@ -3,7 +3,7 @@ package com.kata.fizzbuzz;
 public class AppMain {
 
     public static void main(String[] args) {
-        System.out.println("Hello");
+        FizzBuzzPrinter.print();
     }
 
 }
