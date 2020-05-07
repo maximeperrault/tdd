@@ -1,4 +1,4 @@
-package com.kata.fizzbuzz;
+ package com.kata.fizzbuzz;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
